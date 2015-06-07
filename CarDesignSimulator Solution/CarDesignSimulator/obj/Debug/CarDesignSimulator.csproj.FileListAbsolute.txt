@@ -1,0 +1,57 @@
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\bin\Debug\CarDesignSimulator.exe.config
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\bin\Debug\CarDesignSimulator.exe
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\bin\Debug\CarDesignSimulator.pdb
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.csprojResolveAssemblyReference.cache
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.Properties.Resources.resources
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.csproj.GenerateResource.Cache
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.exe
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.pdb
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\bin\Debug\Interop.AcroPDFLib.dll
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\bin\Debug\AxInterop.AcroPDFLib.dll
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\Interop.AcroPDFLib.dll
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\AxInterop.AcroPDFLib.dll
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.csproj.ResolveComReference.cache
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.Main.resources
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.UserMode.resources
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.AdminMode.resources
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.Login.resources
+o:\always library\documents\visual studio 2013\Projects\CarDesignSimulator\CarDesignSimulator\obj\Debug\CarDesignSimulator.Diseño4Caras.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\CarDesignSimulator.exe.config
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\Interop.AcroPDFLib.dll
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\AxInterop.AcroPDFLib.dll
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.csproj.ResolveComReference.cache
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.exe
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.pdb
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\CarDesignSimulator.exe
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\CarDesignSimulator.pdb
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\itextsharp.dll
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\itextsharp.xml
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\Interop.AcroPDFLib.dll
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\AxInterop.AcroPDFLib.dll
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.csprojResolveAssemblyReference.cache
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.AdminMode.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Diseño4Caras.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Login.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.UserMode.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Main.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Properties.Resources.resources
+O:\Always Library\Documents\Visual Studio 2013\Projects\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\CarDesignSimulator.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\MySql.Data.dll
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\CarDesignSimulator.exe.config
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.csproj.ResolveComReference.cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.AdminMode.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Diseño4Caras.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Login.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.UserMode.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Main.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.pdb
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\CarDesignSimulator.pdb
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\hackcaton\CarDesignSimulator - copia\CarDesignSimulator\obj\Debug\CarDesignSimulator.csprojResolveAssemblyReference.cache
